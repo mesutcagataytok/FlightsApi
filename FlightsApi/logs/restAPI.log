@@ -1,0 +1,60 @@
+2023-09-05 20:10:59 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 20:11:02 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 20:11:02 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 20:11:02 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 20:11:02 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 20:12:09 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 20:12:11 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 20:12:11 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 20:12:11 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 20:12:11 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 20:17:23 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 20:17:24 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 20:17:24 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 20:17:24 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 20:17:24 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 20:29:49 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 20:29:50 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 20:29:50 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 20:29:50 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 20:29:50 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 20:33:59 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 20:34:01 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 20:34:01 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 20:34:01 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 20:34:01 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 20:35:02 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 20:35:04 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 20:35:04 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 20:35:04 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 20:35:04 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 20:56:32 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 20:56:34 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 20:56:34 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 20:56:34 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 20:56:34 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 21:16:14 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 21:16:15 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 21:16:16 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 21:16:16 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 21:16:16 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 22:12:33 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 22:12:39 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 22:12:39 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 22:12:39 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 22:12:39 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-05 22:14:35 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-05 22:14:40 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-05 22:14:40 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-05 22:14:40 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-05 22:14:40 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-06 13:19:43 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-06 13:19:49 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-06 13:19:49 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-06 13:19:49 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-06 13:19:49 INFO  API:75 - Check Response For DATE As ALL STRING
+2023-09-06 15:24:43 INFO  API:21 - Get flights-api.buraky.workers - 200
+2023-09-06 15:24:49 INFO  API:42 - Check Response For Id As ALL INTEGER
+2023-09-06 15:24:49 INFO  API:52 - Check Response For FROM As ALL STRING
+2023-09-06 15:24:49 INFO  API:64 - Check Response For TO As ALL STRING
+2023-09-06 15:24:49 INFO  API:75 - Check Response For DATE As ALL STRING
